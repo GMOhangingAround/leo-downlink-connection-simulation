@@ -1,4 +1,4 @@
-# LEO-downlink-connection-simulation
+# leo-downlink-connection-simulation
 
 Simulates the downlink of a low Earth orbit satellite over a single pass, comparing a fixed QPSK link against adaptive modulation and coding across link budget, throughput and power.
 
